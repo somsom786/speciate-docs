@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: SPECIATE
+  structure:
+    - type: space
+      key: space-docs
+      title: SPECIATE Documentation
+      path: docs
+      default: true
+      content:
+        directory: ./
+        language: en
